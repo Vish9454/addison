@@ -1,0 +1,91 @@
+# success_message dictionary
+success_message = {
+    "EMAIL_FOR_VERIFICATION_TO_ADMIN": "The details are sent to Admin for Approval.",
+    "EMAIL_VERIFIED": "Your email verified successfully.",
+    "FORGOT_PASSWORD_LINK_SUCCESS_MESSAGE": "The forgot link is sent to email successfully.",
+    "PASSWORD_CHANGED": "Password is changed successfully",
+    "RESEND_EMAIL_VERIFY_LINK": "Email has been resent for verification.",
+    "UPDATE_SUCCESSFUL": "The update is done successfully.",
+    "CANCEL_MEET": "The meeting is cancelled successfully.",
+    "USER_UPDATED": "The user is updated successfully.",
+    "EMAIL_SENT": "The email is sent successfully",  # for verifying(is_email_verified).
+    "CARD_ADDED": "The card is added successfully.",
+    "CARD_DELETE_SUCSSES": "The card is deleted successfully.",
+    "PLAN_SUCCESSFUL": "Subscription plan created successfully.",
+    "PLAN_UPDATE_SUCCESS": "Subscription plan is updated successfully.",
+    "DATA_SAVED": "Data saved successfully",
+    "USER_ACTIVATED": "User has been activated successfully.",
+    "USER_DEACTIVATED": "User has been deactivated successfully.",
+    "USER_DELETED": "User has been deleted successfully.",
+
+}
+
+# validation message dictionary.
+validation_message = {
+    'EMAIL_ALREADY_EXIST': "This email is already registered.",
+    "EMAIL_ALREADY_VERIFIED": "Email has been verified already.",
+    "INVALID_CREDENTIAL": "Invalid email or password.",
+    "INVALID_USER_ROLE": "Invalid user role.",
+    "LOCATION": "Server",
+    "WRONG_TOKEN": "The token sent is incorrect, hence user cannot be verified.",
+    "USER_NOT_FOUND": "The user does not exist with this email Id",
+    "INVALID_FORGOT_PASSWORD_LINK": "The link is invalid.",
+    "RESET_PASSWORD_LINK_EXPIRED": "The reset password link is expired, kindly try resetting agaiin.",
+    "FORGOT_PASSWORD_LINK_ALREADY_VERIFIED": "Link is already used",
+    "MEET_ID_WRONG": "There is no such meeting ID.",
+    "DONT_UPDATE_SLOTS": "Slots cannot be updated.",
+    "INVALID_SLOTS": "The timeslots id is invalid, Kindly enter correct Id.",
+    "OLD_PASSWORD_WRONG": "Old Password is incorrect.",
+    "SUBSCRIPTION_AMOUNT_CHANGE": "In subscription the amount cannot be changed.",
+    "FCM_TOKEN": "Kindly give the fcm token.",
+    "ID_CURRENCY_CARD": "Kindly give booking id, currency and card",
+    "PAYMENT_CREATED_ALREADY": "Payment on hold is created, cannot create again",
+    "TRY_LATER": "Unable to do payment,kindly try later",
+    "INTENT_CARD_BOOKING_ID": "Kindly give the payment Id , card_id and booking id",
+    "PAYMENT_INTENT_ID": "Kindly give payment intent id!!",
+    "PAYMENT_AMOUNT": "Kindly give the payment Id and  amount both.",
+    "BANK_ACCOUNT": "Unable to add bank account details, try again later",
+    "ADMIN_ACC_EXISTS": "Admin account already exists",
+    "CARD_EXISTS": "The card already exists.",
+    "ADMIN_ACCOUNT_ERROR": "Unable to create admin account, try again later.",
+    "ERROR_CREATING_CUSTOMER": "Something went wrong, kindly try again.",
+    "PLAN_EXISTS": "Plan with same amount and currency exists.",
+    "PLAN_UPDATE": "Kindly enter correct subscription Id or Same amount plan exists.",
+    "PLAN_CARD_CUSTOMER_ERROR": "You are missing either plan_id, card_id or stripe_customer_id",
+    "SUBSCRIPTION_NOT_FOUND": "Subscription not found.",
+    "DELETE_ERROR_SUBSCRIPTION": "Unable to delete subscription please try again later.",
+    "CREATE_ERROR_SUBSCRIPTION": "Unable to create subscription please try again later.",
+    "UPGRADE_YOUR_PLAN": 'Upgrade your plan to activate this feature.',
+    "NOT_ACTIVE_SUBSCRIPTION": 'You don\'t have active Subscription.',
+    "NOT_AN_ADMIN_USER": 'User not found.',
+    "NO_SUBSCRIPTION_FOUND": "Kindly enter correct subscription Id",
+    "SUBSCRIPTION_PLAN": "subscription plan",
+    "PURCHASE_TOKEN": "Kindly provide Purchase Token and Interval both",
+    "INVALID_PURCHASE_TOKEN": "Invalid purchase token",
+    "ERROR": "Something went wrong, kindly try again.",
+
+
+}
+
+# store the hardcoded value used in project in the form of dictionary.
+variables = {
+    "PLAIN_EMAIL_CONTENT_TYPE": "text/plain",
+    "HTML_EMAIL_CONTENT_TYPE": "text/html",
+    "SENT_EMAIL_BODY": "Email verification token is ",
+    "SENT_EMAIL_SUBJECT": "Email verification",
+    "FORGOT_PASSWORD_EMAIL_BODY": "Your forgot password verification token is ",
+    "FORGOT_PASSWORD_SUBJECT": "Forgot password verification",
+    "SMS_OTP_BODY": "Your account verification otp is ",
+    "FORGOT_PASSWORD_PHONE_OTP_BODY": "Your forgot password verification otp is ",
+    "OTP_EXPIRATION_TIME": 8760,  # in hours
+    "IMAGE_TYPE": [".jpg", ".jpeg", ".png"],
+    "DOCS_TYPE": [".pdf", ".doc", ".docx", ".odt"],
+    "EMPLOYEE_CREDENTIALS_SUBJECT": "Employee Credentials",
+    "EMPLOYEE_CREDENTIALS": "Your credentials are:",
+    "PERMISSION_MESSAGE": "You do not have permission to perform this action.",
+    "STAFF_PERMISSION_MESSAGE": "Currently, you are not staff member of any gym.",
+    "LOCATION_FILE_UPLOAD": "file upload.",
+    "DATETIME_FORMAT": '%Y-%m-%dT%H:%M:%SZ',
+    "DATE_FORMAT": "%Y-%m-%d",
+
+}

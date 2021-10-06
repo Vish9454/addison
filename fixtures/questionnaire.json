@@ -1,0 +1,769 @@
+[
+    {
+        "pk": 1,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Please tell a bit about your business so that we can provide a better solution",
+            "type": "1",
+            "category": "1",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 2,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Who is the ultimate end-user of the product or service?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 3,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the ultimate destination (country/region) for the product or service?",
+            "type": "5",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 4,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the product or service being provided?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 5,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Describe the specification of the product and its application in the marketplace.",
+            "type": "2",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 6,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is there any unique technology or feature associated with the product?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 7,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Does the product have a general or more specific use?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 8,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Has the product been exported in the past? If yes,what ECCN classification was listed?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "1",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 9,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Who is the ultimate end user of the service?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 10,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the ultimate destination (country/region) for the service?",
+            "type": "5",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 11,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the service being provided?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 12,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Describe the service to be provided.",
+            "type": "2",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 13,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What market or people group is this service focused on?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 14,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is the service associated with a product?  If yes,describe.",
+            "type": "3",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 15,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Does the service include technology that is not publicly available on the internet or in print?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 16,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "How is the service unique from others providing the same or similar service?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "2",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 17,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Who is the ultimate end-user of the product or service?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 18,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the ultimate destination (country/region) for the product or service?",
+            "type": "5",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 19,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the product or service being provided?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 20,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Describe the specification of the product and its application in the marketplace.",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 21,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is there any unique technology or feature associated with the product?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 22,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Does the product have a general or more specific use?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 23,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Has the product been exported in the past? If yes,what ECCN classification was listed?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 24,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Describe the service to be provided.",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 25,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What market or people group is this service focused on?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 26,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is the service associated with a product?  If yes,describe.",
+            "type": "3",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 27,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Does the service include technology that is not publicly available on the internet or in print?",
+            "type": "3",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 28,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "How is the service unique from others providing the same or similar service?",
+            "type": "2",
+            "category": "1",
+            "subcategory": "3",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 29,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Describe the specification of the product and its application in the marketplace.",
+            "type": "2",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 30,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is the product imported complete or disassembled as sub-assemblies or in a kit?",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 31,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the country of origin of the product?",
+            "type": "4",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 32,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "What is the basis for establishing country of origin?",
+            "type": "2",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 33,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Has this product been imported in the past? If yes, what HTS classification was listed?",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 34,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Will the product be consumed in the U.S.?",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 35,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Will the product be incorporated into a different product for consumption in U.S. or re-exported? If yes, describe end product.",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 36,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is the product imported ready for retail sale?",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 37,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Will the product be stocked in the U.S. and then re-exported with no modification? If modified,describe.",
+            "type": "1",
+            "category": "2",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 38,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is certification needed for safety requirements(e.g. IEC/EN, ANSI, ISO, NEMA, FDA) and/or testing by a recognized lab (e.g. UL, CSA, TUV, etc.)?",
+            "type": "1",
+            "category": "5",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 39,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is assistance needed to properly certify products to apply labels/marks (e.g. CE, UL, TUV, G, EnergyStar, etc.)?",
+            "type": "1",
+            "category": "5",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 40,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is certification needed for green or recycling initiatives (e.g. REACH, RoHS, WEEE)?",
+            "type": "1",
+            "category": "5",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 41,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Is validation needed to support special duty treatment of a free trade agreement or if subject to unfair trade practices?",
+            "type": "1",
+            "category": "5",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 42,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Which global regions or specific countries will the products be sold in (e.g. Asia-Pacific, Middle East - Africa, Europe, Americas-Caribbean)?",
+            "type": "1",
+            "category": "5",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 43,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Export controls compliance",
+            "type": null,
+            "category": "3",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 44,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Import compliance documentation",
+            "type": null,
+            "category": "3",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 45,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "U.S.-Person liability outside the U.S.",
+            "type": null,
+            "category": "3",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 46,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Anti-boycott compliance",
+            "type": null,
+            "category": "3",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 47,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Anti-bribery compliance",
+            "type": null,
+            "category": "3",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 48,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Export controls compliance",
+            "type": null,
+            "category": "4",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 49,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Import compliance documentation",
+            "type": null,
+            "category": "4",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 50,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "U.S.-Person liability outside the U.S.",
+            "type": null,
+            "category": "4",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 51,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Anti-boycott compliance",
+            "type": null,
+            "category": "4",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 52,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Anti-bribery compliance",
+            "type": null,
+            "category": "4",
+            "subcategory": null,
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 53,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Business meeting, planning and interpretation",
+            "type": null,
+            "category": "6",
+            "subcategory": "4",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 54,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Mandarin translation",
+            "type": null,
+            "category": "6",
+            "subcategory": "4",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 55,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Pre-shipment product inspection",
+            "type": null,
+            "category": "6",
+            "subcategory": "5",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 56,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "Supplier identification/qualification profile dossier",
+            "type": null,
+            "category": "6",
+            "subcategory": "5",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 57,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "In-bound customs compliance\n",
+            "type": null,
+            "category": "6",
+            "subcategory": "6",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 58,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "China RoHS compliance\n",
+            "type": null,
+            "category": "6",
+            "subcategory": "6",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    },
+    {
+        "pk": 59,
+        "model": "accounts.questionnaire",
+        "fields": {
+            "questions": "In-country partner profile dossier.",
+            "type": null,
+            "category": "6",
+            "subcategory": "7",
+            "created_at": "2021-07-22T16:04:13.144Z",
+            "updated_at": "2021-07-22T16:04:13.144Z",
+            "is_deleted": false
+        }
+    }
+]

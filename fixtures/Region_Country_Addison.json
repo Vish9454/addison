@@ -1,0 +1,410 @@
+[
+    {
+        "pk": 1,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Bahama"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Barbados"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Brazil"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Cayman Islands"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Canada"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Costa Rica"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Colombia"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Ecuador"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Guatemala"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Honduras"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Jamaica"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Mexico"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Nicaragua"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Panama"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Peru"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Trinidad & Amp"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Tobago"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Americas/Caribbean",
+            "country": "Venezuela"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Austria"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Belgium"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Cyprus"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Denmark"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "France"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Germany"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Iceland"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Ireland"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Italy"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Norway"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Portugal"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Spain"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Sweden"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "Switzerland"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Europe",
+            "country": "United Kingdom"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "Ghana"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "Kenya"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "Nigeria"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "Saudi Arabia"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "South Africa"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Middle East/Africa",
+            "country": "United Arab Emirates"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Australia"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Brunei"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "China"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Hong Kong"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "India"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Indonesia"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Japan"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "New Zealand"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Philippines"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Singapore"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "South Korea"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "accounts.countryregion",
+        "fields": {
+            "region": "Asia/Pacific",
+            "country": "Taiwan"
+        }
+    }
+]

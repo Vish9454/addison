@@ -1,0 +1,52 @@
+pk,model,region,country
+1,accounts.countryregion,Americas/Caribbean,Bahama
+2,accounts.countryregion,Americas/Caribbean,Barbados
+3,accounts.countryregion,Americas/Caribbean,Brazil
+4,accounts.countryregion,Americas/Caribbean,Cayman Islands
+5,accounts.countryregion,Americas/Caribbean,Canada
+6,accounts.countryregion,Americas/Caribbean,Costa Rica
+7,accounts.countryregion,Americas/Caribbean,Colombia
+8,accounts.countryregion,Americas/Caribbean,Ecuador
+9,accounts.countryregion,Americas/Caribbean,Guatemala
+10,accounts.countryregion,Americas/Caribbean,Honduras
+11,accounts.countryregion,Americas/Caribbean,Jamaica
+12,accounts.countryregion,Americas/Caribbean,Mexico
+13,accounts.countryregion,Americas/Caribbean,Nicaragua
+14,accounts.countryregion,Americas/Caribbean,Panama
+15,accounts.countryregion,Americas/Caribbean,Peru
+16,accounts.countryregion,Americas/Caribbean,Trinidad & Amp
+17,accounts.countryregion,Americas/Caribbean,Tobago
+18,accounts.countryregion,Americas/Caribbean,Venezuela
+19,accounts.countryregion,Europe,Austria
+20,accounts.countryregion,Europe,Belgium
+21,accounts.countryregion,Europe,Cyprus
+22,accounts.countryregion,Europe,Denmark
+23,accounts.countryregion,Europe,France
+24,accounts.countryregion,Europe,Germany
+25,accounts.countryregion,Europe,Iceland
+26,accounts.countryregion,Europe,Ireland
+27,accounts.countryregion,Europe,Italy
+28,accounts.countryregion,Europe,Norway
+29,accounts.countryregion,Europe,Portugal
+30,accounts.countryregion,Europe,Spain
+31,accounts.countryregion,Europe,Sweden
+32,accounts.countryregion,Europe,Switzerland
+33,accounts.countryregion,Europe,United Kingdom
+34,accounts.countryregion,Middle East/Africa,Ghana
+35,accounts.countryregion,Middle East/Africa,Kenya
+36,accounts.countryregion,Middle East/Africa,Nigeria
+37,accounts.countryregion,Middle East/Africa,Saudi Arabia
+38,accounts.countryregion,Middle East/Africa,South Africa
+39,accounts.countryregion,Middle East/Africa,United Arab Emirates
+40,accounts.countryregion,Asia/Pacific,Australia
+41,accounts.countryregion,Asia/Pacific,Brunei
+42,accounts.countryregion,Asia/Pacific,China
+43,accounts.countryregion,Asia/Pacific,Hong Kong
+44,accounts.countryregion,Asia/Pacific,India
+45,accounts.countryregion,Asia/Pacific,Indonesia
+46,accounts.countryregion,Asia/Pacific,Japan
+47,accounts.countryregion,Asia/Pacific,New Zealand
+48,accounts.countryregion,Asia/Pacific,Philippines
+49,accounts.countryregion,Asia/Pacific,Singapore
+50,accounts.countryregion,Asia/Pacific,South Korea
+51,accounts.countryregion,Asia/Pacific,Taiwan.
